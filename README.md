@@ -7,3 +7,5 @@ The user is given two selections of three trade conditions: the position price, 
 Wise traders know their absolute risk level where they will set their stop loss to protect themselves from incurring large losses. Wise traders also have an idea for where a stock may head to where they can sell their position. Having a stop loss and target price in mind gives you an idea of the risk reward behind a setup. The greater the risk reward, the greater the odds of a profit.
 
 The Target Price Section displays the target price, percent gain, dollar gain per share and profit. The Stop Loss Section displays the stop loss, percent loss, dollar loss per share and loss. The Risk Section displays the risk reward and account risk.
+
+### Directions
