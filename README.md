@@ -1,4 +1,5 @@
 # Trading-Tools
+## SUMMARY
 This program is a Target Price and Stop Loss Calculator. This is designed for those invested in the stock market, with a specification towards day traders. The purpose of this program is to give traders a quick and easy tool to determine a stop loss and a target price. From this information, and a balance, the risk reward and account risk can be calculated as well.
 
 The user is given two selections of three trade conditions: the position price, the price per share and the number of shares. The third condition is calculated based upon the user input for the other two conditions. Based upon these three conditions, a goal gain condition, and a max loss condition, the stop loss and target price information can be calculated. The user may also input their current account balance to assess account risk in comparison to their position price. There is also the ability to enter a total commission amount, which gets factored into risk reward, account risk, and total losses and profits of a trade.
