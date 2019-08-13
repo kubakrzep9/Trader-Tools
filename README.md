@@ -15,14 +15,14 @@ The Target Price Section displays the target price, percent gain, dollar gain pe
   <img src="https://user-images.githubusercontent.com/44120038/62907906-0f5d3e80-bd3b-11e9-9d06-1398a16c0bdd.gif">
   <br>
   Adding the inital input into the calculator
-  <br><br><br>
+  <br><br><br><br>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/62908047-9e6a5680-bd3b-11e9-86aa-b17b566adbaa.gif">
   <br>
   Demonstrating input error handling
-  <br><br><br>
+  <br><br><br><br>
 </p>
 
 
@@ -31,5 +31,5 @@ The Target Price Section displays the target price, percent gain, dollar gain pe
   <img src="https://user-images.githubusercontent.com/44120038/62908059-ab874580-bd3b-11e9-8619-cd37351908d2.gif">
   <br>
   Changing goal gain and max loss conditions
-  <br><br><br>
+  <br><br><br><br>
 </p>
