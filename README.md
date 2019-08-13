@@ -11,6 +11,10 @@ The Target Price Section displays the target price, percent gain, dollar gain pe
 
 <h2 align="center">Directions</h2>
 
+Description of Directions
+
+<h2 align="center">Demonstrations</h2>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/62907906-0f5d3e80-bd3b-11e9-9d06-1398a16c0bdd.gif">
   <br>
@@ -24,8 +28,6 @@ The Target Price Section displays the target price, percent gain, dollar gain pe
   Demonstrating input error handling
   <br><br><br><br>
 </p>
-
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/62908059-ab874580-bd3b-11e9-8619-cd37351908d2.gif">
