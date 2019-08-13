@@ -9,3 +9,4 @@ Wise traders know their absolute risk level where they will set their stop loss 
 The Target Price Section displays the target price, percent gain, dollar gain per share and profit. The Stop Loss Section displays the stop loss, percent loss, dollar loss per share and loss. The Risk Section displays the risk reward and account risk.
 
 ### Directions
+![]()
