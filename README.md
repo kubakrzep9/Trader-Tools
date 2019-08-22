@@ -1,11 +1,11 @@
 <h1 align="center">Trading Tools</h1>
 <h2 align="center">Summary</h2>
 
-This program is a Target Price and Stop Loss Calculator. This is designed for those invested in the stock market, with a specification towards day traders. The purpose of this program is to give traders a quick and easy tool to determine a stop loss and a target price. From this information, and a balance, the risk reward and account risk can be calculated as well.
+This program is a Target Price and Stop Loss Calculator. This is designed for traders in the stock market. The purpose of this program is to give traders a quick and easy tool to determine their stop loss and target price for a potential setup. From this information, and a balance, the risk reward and account risk can be calculated as well.
 
 The user is given two selections of three trade conditions: the position price, the price per share and the number of shares. The third condition is calculated based upon the user input for the other two conditions. Based upon these three conditions, a goal gain condition, and a max loss condition, the stop loss and target price information can be calculated. The user may also input their current account balance to assess account risk in comparison to their position price. There is also the ability to enter a total commission amount, which gets factored into risk reward, account risk, and total losses and profits of a trade.
 
-Wise traders know their absolute risk level where they will set their stop loss to protect themselves from incurring large losses. Wise traders also have an idea for where a stock may head to where they can sell their position. Having a stop loss and target price in mind gives you an idea of the risk reward behind a setup. The greater the risk reward, the greater the odds of a profit.
+Wise traders know their absolute risk level where they will set their stop loss to protect themselves from incurring large unnecessary losses. Wise traders also have an idea for where a stock may head to where they can sell their position. Having a stop loss and target price in mind gives you an idea of the risk reward behind a setup. The greater the risk reward, the greater the odds of a profit.
 
 The Target Price Section displays the target price, percent gain, dollar gain per share and profit. The Stop Loss Section displays the stop loss, percent loss, dollar loss per share and loss. The Risk Section displays the risk reward and account risk.
 
@@ -15,7 +15,7 @@ To use the Target Price and Stop Loss Calculator, the user must select two trade
 
 An issue arises when a user, trading a small position, sees how good their risk reward looks based upon the information they have entered. The problem is, when trading a small position, your profits are small and commissions can and will wipe them away. And so, the user is under an illusion that their setup has high odds, when in reality it does not. The user may enter in their expected total commisson in order to get a true idea of the risk reward of a setup, as the commission is factored into the calculated profit and loss. 
 
-If the user does not enter in a whole number for the number of shares, it is likely that the calculated number of shares will be a decimal. There are ways to buy fractions of a stock however, most traders deal with whole numbers of shares. To remedy this issue, there is a "Round Shares" button on the bottom right of the screen that will round down the number of shares, and adjust the rest of the trade condition input values to reflect the new number of shares. 
+If the user does not enter in a whole number for the number of shares, it is likely that the calculated number of shares will be a decimal. There are ways to buy fractions of a stock however, most traders deal with whole numbers of shares. To remedy this issue, there is a "Round Shares" button on the bottom right of the screen that will round down the number of shares; this will adjust the rest of the trade condition input values and, the rest of the calculated target price and stop loss values, to reflect the new number of shares. 
 
 The user may also enter their account balance to assess how much risk their account will be in based on their position. This gives the user another risk indicator in an effort to protect their account. 
 
