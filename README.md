@@ -1,4 +1,5 @@
 <h1 align="center">Trading Tools</h1>
+<p><br><br><br><br></p>
 <h2 align="center">Summary</h2>
 
 This program is a Target Price and Stop Loss Calculator. This is designed for traders in the stock market. The purpose of this program is to give traders a quick and easy tool to determine their stop loss and target price for a potential setup. From this information, and a balance, the risk reward and account risk can be calculated as well.
