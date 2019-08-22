@@ -10,8 +10,6 @@ Wise traders know their absolute risk level where they will set their stop loss 
 The Target Price Section displays the target price, percent gain, dollar gain per share and profit. The Stop Loss Section displays the stop loss, percent loss, dollar loss per share and loss. The Risk Section displays the risk reward and account risk.
 
 <h2 align="center">Directions</h2>
-Description of Directions
-<h2 align="center">Demonstrations</h2>
 
 To use the Target Price and Stop Loss Calculator, the user must select two trade conditions, a goal gain condition and a stop loss condition. The user must enter valid numerical input into each of the conditions adjecent input fields. Once all fields are valid, the Target Price and Stop Loss sections will be calculated and displayed. This gives the user an idea of their potential profit, loss and risk reward for a trade setup.
 
@@ -20,6 +18,8 @@ An issue arises when a user, trading a small position, sees how good their risk 
 If the user does not enter in a whole number for the number of shares, it is likely that the calculated number of shares will be a decimal. There are ways to buy fractions of a stock however, most traders deal with whole numbers of shares. To remedy this issue, there is a "Round Shares" button on the bottom right of the screen that will round down the number of shares, and adjust the rest of the trade condition input values to reflect the new number of shares. 
 
 The user may also enter their account balance to assess how much risk their account will be in based on their position. This gives the user another risk indicator in an effort to protect their account. 
+
+<h2 align="center">Demonstrations</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44120038/62907906-0f5d3e80-bd3b-11e9-9d06-1398a16c0bdd.gif">
