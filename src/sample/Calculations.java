@@ -1,8 +1,6 @@
 // The Calculations class contains all the necessary calculations required by the GUI. These calculations are required
 // for the Trader Condition, Target Price, Stop Loss and Risk Sections.
 
-
-
 package sample;
 
 public class Calculations {
