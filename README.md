@@ -1,6 +1,8 @@
 <h1 align="center">Trading Tools</h1>
-<p><br></p>
-<img src="https://user-images.githubusercontent.com/44120038/64578050-d4532880-d343-11e9-9b59-c03547083dac.png">
+
+<p align="center">
+  <img width="512" height="512" src="https://user-images.githubusercontent.com/44120038/64578050-d4532880-d343-11e9-9b59-c03547083dac.png">
+</p>
 
 <h2 align="center">Summary</h2>
 
